@@ -114,7 +114,9 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 
 （1）切换为“日志管理”标签页，点击“+”新增代理配置
 
-![](images/80857396.png)
+<div align=center>
+<img src="https://github.com/djmpink/log-dashboard/blob/master/images/80857396.png">
+</div>
 
 （2）左侧切换配置方式（SSH/代理/文件）以配置SSH为例：
 
@@ -164,7 +166,7 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 该功能将清空当前屏幕信息。
 
 <div align=center>
-<img src="https://github.com/djmpink/log-dashboard/blob/master/images/81968581.png">
+<img style="box-shadow: 0px 2px 10px #24292e" ,src="https://github.com/djmpink/log-dashboard/blob/master/images/81968581.png">
 </div>
 
 
