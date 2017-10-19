@@ -9,12 +9,10 @@
 	<a href="https://github.com/djmpink/log-dashboard">Documentation</a>
 </p>
 
-<p align="center">
 
 ![](images/1.png)
 
 ![](images/2.png)
-</p>
 
 ## 简介
 开发工作总是需要和日志打交道。而在开发，调试，监控时最常使用的命令是“tail -f xxx.log”来实时了解日志信息。但每次查看日志总是需要打开命令行工具，登录服务器，找到日志文件。
@@ -81,11 +79,9 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 
 （1）切换为“SSH配置”标签页，点击“+”新增SSH配置
 
-<p align="center">
-
-![](images/80227938.png)
-
-</p>
+<div align=center>
+<img width="140px" src="https://github.com/djmpink/log-dashboard/blob/master/images/80227938.png">
+</div>
 
 （2）编辑ssh账户信息
 
