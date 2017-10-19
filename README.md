@@ -165,7 +165,7 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 
 该功能将清空当前屏幕信息。
 
-<div align=center>
+<div align=center style="box-shadow: 0px 2px 10px #24292e">
 <img style="box-shadow: 0px 2px 10px #24292e" src="https://github.com/djmpink/log-dashboard/blob/master/images/81968581.png">
 </div>
 
