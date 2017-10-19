@@ -6,7 +6,7 @@
 通过过滤器，搜索，高亮等辅助等功能，快定位异常，让你更专注于程序开发与运行。
 <p align="center">
 	<a href="http://www.teamstack.cn">Download</a> ·
-	<a href="https://github.com/djmpink/log-dashboard">Documentation</a>
+	<a href="https://djmpink.github.io/log-dashboard/">Documentation</a>
 </p>
 
 ![](images/1.png)
@@ -79,9 +79,7 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 
 （1）切换为“SSH配置”标签页，点击“+”新增SSH配置
 
-<div align=center>
-<img src="https://github.com/djmpink/log-dashboard/blob/master/images/80227938.png">
-</div>
+![](images/80227938.png)
 
 （2）编辑ssh账户信息
 
@@ -98,9 +96,7 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 
 （1）切换为“代理配置”标签页，点击“+”新增代理配置
 
-<div align=center>
-<img src="https://github.com/djmpink/log-dashboard/blob/master/images/80570389.png">
-</div>
+![](images/80570389.png)
 
 （2）配置代理程序信息
 
@@ -114,9 +110,7 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 
 （1）切换为“日志管理”标签页，点击“+”新增代理配置
 
-<div align=center>
-<img src="https://github.com/djmpink/log-dashboard/blob/master/images/80857396.png">
-</div>
+![](images/80857396.png)
 
 （2）左侧切换配置方式（SSH/代理/文件）以配置SSH为例：
 
@@ -132,9 +126,8 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 
 （1）点击列表中“查看”，或者“双击”该行，进入日志显示页。
 
-<div align=center>
-<img src="https://github.com/djmpink/log-dashboard/blob/master/images/81242242.png">
-</div>
+![](images/81242242.png)
+
 
 （2）进入为“关闭”状态，点击右上方“开关切换”按钮开启日志显示：
 
@@ -143,9 +136,7 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 2.辅助功能
 * 快速切换日志
 
-<div align=center>
-<img src="https://github.com/djmpink/log-dashboard/blob/master/images/81555394.png">
-</div>
+![](images/81555394.png)
 
 * 关键词搜索/关键词高亮
 
@@ -157,17 +148,13 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 
 功能运行输入linux命令行命令，并将在其对应的日志目录下执行该命令。可根据需要灵活使用。
 
-<div align=center>
-<img src="https://github.com/djmpink/log-dashboard/blob/master/images/82094323.png">
-</div>
+![](images/82094323.png)
 
 * 清空屏幕
 
 该功能将清空当前屏幕信息。
 
-<div align=center>
-<img src="https://github.com/djmpink/log-dashboard/blob/master/images/81968581.png">
-</div>
+![](images/81968581.png)
 
 
 
