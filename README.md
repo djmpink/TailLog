@@ -6,7 +6,7 @@
 通过过滤器，搜索，高亮等辅助等功能，快定位异常，让你更专注于程序开发与运行。
 <p align="center">
 	<a href="http://www.teamstack.cn">Download</a> ·
-	<a href="https://djmpink.github.io/log-dashboard/">Documentation</a>
+	<a href="https://djmpink.github.io/TeamStack/">Documentation</a>
 </p>
 
 ![](images/1.png)
