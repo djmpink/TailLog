@@ -80,7 +80,7 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 （1）切换为“SSH配置”标签页，点击“+”新增SSH配置
 
 <div align=center>
-<img width="140px" src="https://github.com/djmpink/log-dashboard/blob/master/images/80227938.png">
+<img src="https://github.com/djmpink/log-dashboard/blob/master/images/80227938.png">
 </div>
 
 （2）编辑ssh账户信息
