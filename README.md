@@ -14,12 +14,12 @@
 
 ![](images/2.png)
 
-## 简介
+# 简介
 开发工作总是需要和日志打交道。而在开发，调试，监控时最常使用的命令是“tail -f xxx.log”来实时了解日志信息。但每次查看日志总是需要打开命令行工具，登录服务器，找到日志文件。
 另外，在分布式，微服务的潮流下导致日志数量增多，分散。如果考虑到不同的环境（如开发，测试，生产等）又将成倍增加。
 因此，TeamStack希望TeamStack通过在线服务，存储配置信息，将日志信息有效集中化管理。简化操作过程，做到随时快速看到日志流动信息，提高工作效率和质量。
 
-## 工作方式
+# 工作方式
 TeamStack通过远程连接至日志所在服务器，根据所配置的日志文件信息获取日志实时内容并将其输出到客户端。
 TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式。
 1.SSH方式
@@ -34,9 +34,24 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 代理程序接口与实现文档参考【】。
 文档提供不同语言的示例程序，可根据需求直接使用或拓展。
 
-## 使用帮助
+# 使用帮助
 
-### 用户
+## 安装
+#### Mac版
+
+<p align="center">
+	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0/TeamStack.dmg">Download</a>
+</p>
+点击安装包 TeamStack.dmg 执行安装。
+
+### Windows版
+
+<p align="center">
+	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0/TeamStack-win32-x64.zip">Download</a>
+</p>
+下载后解压，运行：TeamStack.exe
+
+## 用户相关
 1.登录
 
 支持：邮箱登录，三方登录（QQ，github）
@@ -59,7 +74,7 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 
 用户设置页-->修改昵称
 
-### 配置
+### 配置相关
 1.配置管理
 
 （1）日志配置列表
