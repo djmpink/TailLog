@@ -178,6 +178,7 @@ TailLog目前主要提供两种远程连接方式：SSH方式和代理方式。
 
 
 ## 更新日志
+
 * 2017 10.24 
 
     v1.0.0 预览版发布
@@ -191,9 +192,16 @@ TailLog目前主要提供两种远程连接方式：SSH方式和代理方式。
     
    （3）更换应用名称：TeamStack -> TailLog
 
+## 开发者信息
 
+博客 | <a href="http://7player.cn">7号球员</a>
+
+Github : <a href="https://github.com/djmpink">https://github.com/djmpink</a>
+
+QQ : 343787567
 
 ## 鼓励前行
+
 | 支付宝        | 微信           | 
 | ------------- |:-------------:| 
 |![](images/alipay2.png)|![](images/weipay2.png)|
