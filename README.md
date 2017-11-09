@@ -5,19 +5,24 @@
 类似命令"tail"，在本地展示并跟踪日志信息。 
 通过过滤器，搜索，高亮等辅助等功能，快定位异常，让你更专注于程序开发与运行。
 <p align="center">
-	<a href="http://www.taillog.cn">Download</a> ·
+	<a href="http://www.taillog.cn">官网首页</a> ·
 	<a href="https://djmpink.github.io/TailLog/">Documentation</a>
+</p>
+<p align="center">
+<a href="https://pan.baidu.com/s/1hs09q8s" style="color: #cccccc">百度网盘</a>
 </p>
 
 ![](images/config.png)
-
 
 ![](images/log.png)
 
 ![](images/term.png)
 
-# 开源计划
-**目前处于预览版，将在v1正式版稳定后开源。**
+
+# 开源计划 与 备注
+#### 目前为预览版，将在稳定后v1正式版开源。
+#### 欢迎反馈意见，完善产品。
+#### 同样欢迎感兴趣者一起参与。
 
 # 简介
 开发工作总是需要和日志打交道。而在开发，调试，监控时最常使用的命令是“tail -f xxx.log”来实时了解日志信息。但每次查看日志总是需要打开命令行工具，登录服务器，找到日志文件。
@@ -55,6 +60,12 @@ TailLog目前主要提供两种远程连接方式：SSH方式和代理方式。
 	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0/TailLog-win32-x64.zip">Download</a>
 </p>
 下载后解压，运行：TailLog.exe
+
+### 百度网盘
+<p align="center">
+<a href="https://pan.baidu.com/s/1hs09q8s" style="color: #cccccc">百度网盘</a>
+</p>
+
 
 ## 用户相关
 1.登录
@@ -182,7 +193,6 @@ TailLog目前主要提供两种远程连接方式：SSH方式和代理方式。
 * 2017 10.24 
 
     v1.0.0 预览版发布
-   
     
 * 2017 11.10 
 
