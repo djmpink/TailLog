@@ -1,12 +1,12 @@
 ﻿What Is It?
 -----------
 
-[TeamStack](http://www.teamstack.cn/)是一款实时日志查看监控客户端工具。 用于快速高效的查看和监控本地或远程的日志文件。 
+[TailLog](http://www.taillog.cn/)是一款实时日志查看监控客户端工具。 用于快速高效的查看和监控本地或远程的日志文件。 
 类似命令"tail"，在本地展示并跟踪日志信息。 
 通过过滤器，搜索，高亮等辅助等功能，快定位异常，让你更专注于程序开发与运行。
 <p align="center">
-	<a href="http://www.teamstack.cn">Download</a> ·
-	<a href="https://djmpink.github.io/TeamStack/">Documentation</a>
+	<a href="http://www.taillog.cn">Download</a> ·
+	<a href="https://djmpink.github.io/TailLog/">Documentation</a>
 </p>
 
 ![](images/1.png)
@@ -20,11 +20,11 @@
 # 简介
 开发工作总是需要和日志打交道。而在开发，调试，监控时最常使用的命令是“tail -f xxx.log”来实时了解日志信息。但每次查看日志总是需要打开命令行工具，登录服务器，找到日志文件。
 另外，在分布式，微服务的潮流下导致日志数量增多，分散。如果考虑到不同的环境（如开发，测试，生产等）又将成倍增加。
-因此，TeamStack希望TeamStack通过在线服务，存储配置信息，将日志信息有效集中化管理。简化操作过程，做到随时快速看到日志流动信息，提高工作效率和质量。
+因此，TailLog希望TailLog通过在线服务，存储配置信息，将日志信息有效集中化管理。简化操作过程，做到随时快速看到日志流动信息，提高工作效率和质量。
 
 # 工作方式
-TeamStack通过远程连接至日志所在服务器，根据所配置的日志文件信息获取日志实时内容并将其输出到客户端。
-TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式。
+TailLog通过远程连接至日志所在服务器，根据所配置的日志文件信息获取日志实时内容并将其输出到客户端。
+TailLog目前主要提供两种远程连接方式：SSH方式和代理方式。
 1.SSH方式
 客户端根据配置的ssh信息通过ssh协议直接登录服务器。
 该方式配置简单，使用方便。并且因为是直接访问，执行效果较好。
@@ -43,16 +43,16 @@ TeamStack目前主要提供两种远程连接方式：SSH方式和代理方式�
 #### Mac版
 
 <p align="center">
-	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0/TeamStack.dmg">Download</a>
+	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0/TailLog.dmg">Download</a>
 </p>
-点击安装包 TeamStack.dmg 执行安装。
+点击安装包 TailLog.dmg 执行安装。
 
 ### Windows版
 
 <p align="center">
-	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0/TeamStack-win32-x64.zip">Download</a>
+	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0/TailLog-win32-x64.zip">Download</a>
 </p>
-下载后解压，运行：TeamStack.exe
+下载后解压，运行：TailLog.exe
 
 ## 用户相关
 1.登录
