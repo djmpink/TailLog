@@ -60,14 +60,14 @@ TailLog目前主要提供两种远程连接方式：SSH方式和代理方式。
 #### Mac版
 
 <p align="center">
-	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0/TailLog.dmg">Download</a>
+	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0-20171121/TailLog.dmg">Download</a>
 </p>
 点击安装包 TailLog.dmg 执行安装。
 
 ### Windows版
 
 <p align="center">
-	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0/TailLog-win32-x64.zip">Download</a>
+	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0-20171121/TailLog-win32-x64.zip">Download</a>
 </p>
 下载后解压，运行：TailLog.exe
 
