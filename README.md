@@ -12,11 +12,7 @@
 <a href="https://pan.baidu.com/s/1hs09q8s" style="color: #cccccc">百度网盘</a>
 </p>
 
-![](images/config.png)
-
-![](images/log.png)
-
-![](images/term.png)
+![](images/display.gif)
 
 
 # 开源计划 与 备注
