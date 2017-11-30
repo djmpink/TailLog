@@ -1,7 +1,7 @@
 ﻿What Is It?
 -----------
 
-[TailLog](http://www.taillog.cn/)是一款实时日志查看监控客户端工具。 用于快速高效的查看和监控本地或远程的日志文件。 
+[TailLog](http://www.taillog.cn/)是一款实时日志查看监控客户端工具。用于快速高效的查看和监控本地或远程的日志文件。 
 类似命令"tail"，在本地展示并跟踪日志信息。 
 通过过滤器，搜索，高亮等辅助等功能，快定位异常，让你更专注于程序开发与运行。
 <p align="center">
@@ -16,10 +16,9 @@
 
 
 # 开源计划 与 备注
-#### 目前为预览版，将在稳定后v1正式版开源。
+#### 目前为预览版，将在稳定后v1正式版后开源。
 #### 欢迎反馈意见，完善产品。
 #### 同样欢迎感兴趣者一起参与。
-#### 目前配置信息存储阿里云，近期将发布离线版（包括免登陆）
 #### 交流沟通群：455735429
 
 # 近期迭代计划
@@ -54,14 +53,14 @@ TailLog目前主要提供两种远程连接方式：SSH方式和代理方式。
 #### Mac版
 
 <p align="center">
-	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0-20171121/TailLog.dmg">Download</a>
+	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0-20171130/TailLog.dmg">Download</a>
 </p>
 点击安装包 TailLog.dmg 执行安装。
 
 ### Windows版
 
 <p align="center">
-	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0-20171121/TailLog-win32-x64.zip">Download</a>
+	<a href="https://github.com/djmpink/log-dashboard/releases/download/1.0.0-20171130/TailLog-win32-x64.zip">Download</a>
 </p>
 下载后解压，运行：TailLog.exe
 
@@ -213,6 +212,14 @@ TailLog目前主要提供两种远程连接方式：SSH方式和代理方式。
     支持免登陆使用，数据本地存储。
     
     支持本地配置数据导入导出，方便备份与分享。
+    
+* 2017 11.30
+        
+    v1.0.0-20171130 日志监控窗口多开显示
+    
+    支持同时查看多个日志内容
+    
+    配置日志路径支持直接目录操作
 
 ## 开发者信息
 
