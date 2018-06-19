@@ -11,12 +11,15 @@
 <p align="center">
 <a href="https://pan.baidu.com/s/1hs09q8s" style="color: #cccccc">百度网盘</a>
 </p>
+<p align="center">
+<a href="https://github.com/djmpink/TailLog-Source" style="color: #cccccc">开源代码</a>
+</p>
 
 ![](images/display.gif)
 
 
 # 开源计划 与 备注
-#### 目前为预览版，将在稳定后v1正式版后开源。
+#### 源码已开源 [TailLog-Source](https://github.com/djmpink/TailLog-Source)。
 #### 欢迎反馈意见，完善产品。
 #### 同样欢迎感兴趣者一起参与。
 #### 交流沟通群：455735429
